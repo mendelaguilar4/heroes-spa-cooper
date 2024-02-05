@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mendelaguilar4.github.io/heroes-spa-cooper/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
