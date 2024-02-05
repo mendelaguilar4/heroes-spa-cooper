@@ -15,7 +15,7 @@ export const HeroPage = () => {
     navigate(-1);
   }
 
-  const heroImageUrl = `./assets/heroes/${id}.jpg`; // usando github pages
+  const heroImageUrl = `/docs/assets/heroes/${id}.jpg`; // usando github pages
  
     if (!hero) {
         return <Navigate to="/marvel" />;
